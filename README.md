@@ -64,6 +64,11 @@ Type - Business
 * earlier versions
     * Not Found!
 
+## FAQs 
+If you have any suggestion, request or enquery comment this section. 
+
+https://github.com/0ffensive/e-konsulat/issues
+
 ## Contact Us 
 This script is based on some other guy's script who abandoned this project long ago.
 This is just a demo version of full script. 
