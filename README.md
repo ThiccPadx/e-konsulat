@@ -64,11 +64,14 @@ Type - Business
 * earlier versions
     * Not Found!
 
-## Note 
+## Contact Us 
 This script is based on some other guy's script who abandoned this project long ago.
-This is just a demo version of full script. To get the full script contact us. 
+This is just a demo version of full script. 
+
+To get the full script contact us [here](https://www.facebook.com/offensive.thinker) 
+
 
 ## Warning!  
 
- -  We are not responsible if you abuse this script on website. You can go to jail if you are not careful. 
+ - We are not responsible if you abuse this script on website. You can go to jail if you are not careful. 
  - Also it's not our fault if your shitty e-konsulat site is vulnerable to this simple hack. Authorities can go fuck themselves. 
