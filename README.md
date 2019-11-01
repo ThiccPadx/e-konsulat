@@ -1,4 +1,6 @@
-# PolandVisaScript
+# Sold this project, no need to contact now
+
+## PolandVisaScript
 > Automation script for secure2.e-konsulat.gov.pl 
 
 ![](poland.png)
@@ -69,12 +71,7 @@ If you have any suggestion, request or enquery comment this section.
 
 https://github.com/0ffensive/e-konsulat/issues
 
-## Contact Us 
-This script is based on some other guy's script who abandoned this project long ago.
-This is just a demo version of full script. 
-
-To get the full script contact us [here](https://www.facebook.com/offensive.thinker) 
-
+# Sold this project, no need to contact now
 
 ## Warning!  
 
